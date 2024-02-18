@@ -1,0 +1,4 @@
+name:slava
+armor:3
+health:34
+damage:50

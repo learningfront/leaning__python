@@ -1,0 +1,4 @@
+name:player2
+armor:7
+health:1000
+damage:5
